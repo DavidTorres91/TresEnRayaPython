@@ -11,10 +11,9 @@ def movimiento():
     j1 = input()
     
     if j1 == "a1":
-      if Jugada[0]!="." :
         Jugada[0]="X"
         Tablero(Jugada)
-      else: ("Casilla Ocupada.")
+     
       
 
         

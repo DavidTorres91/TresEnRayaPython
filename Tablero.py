@@ -17,7 +17,7 @@ T="""
 #Defino el tablero
 
 def Tablero(Jugada):
-    system("clear")
+    system("cls")
     return (print(f"""{T}
           a      b      c   
        ______________________

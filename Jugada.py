@@ -3,11 +3,4 @@
 
 Jugada= [".",".",".",".",".",".",".",".","."]
 
-a=[".",".",".",".",".",".",".",".","."]
 
-
-
-def gana():
-  if Jugada == a:
-    print("Gana jugador")
-  else: ("Nofunciona")
