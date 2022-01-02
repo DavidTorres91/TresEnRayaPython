@@ -7,7 +7,7 @@ from movimiento import *
 
 Tablero(Jugada)
 
-#realizar un for para actualizar el tablero con cada jugada
+#realizar un for para actualizar el tablero con cada jugada revisar
 
 
 movimiento()
